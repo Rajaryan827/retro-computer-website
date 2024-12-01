@@ -1,11 +1,11 @@
 {
   "author": {
-    "name": "Ed Hinrichsen",
-    "url": "https://www.edwardh.io"
+    "name": "Raj Aryan",
+    "url": "https://www.rajaryan.info"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edhinrichsen/retro-computer-website.git"
+    "url": "#"
   },
   "license": "MIT",
   "name": "retro-computer-website",

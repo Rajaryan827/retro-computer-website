@@ -1,15 +1,15 @@
-
-
-
-
 ## Welcome to ED-Linux 1.0 LTS
 
+# Hi there,
 
+# I'm Raj Aryan
 
-#  Hi there,
-#  *I'm Edward*
-#  -Creative Developer
-##     — Computer Science graduate of
-##        the University of Melbourne
+# -Creative Developer
+
+## — Computer Science graduate of
+
+## the University of My home
+
 ##
-###   *Scroll* or type "help" to get started
+
+### _Scroll_ or type "help" to get started
