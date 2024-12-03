@@ -1,13 +1,16 @@
 !(/images/ed-title.png?aspect=2&noflow=true&width=1.33)
 
-## Hi there,
 
-# _I'm Ed H_
+##   Hi there, 
 
-## • Tech Ethusiast
+#  *I'm Raj*
 
-## • Ententrepreneur
+##   • Tech Ethusiast
+##   • Innovator
 
-### Welcome to Raj-Linux 1.0 LTS
 
+
+
+
+### Welcome to ED-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
