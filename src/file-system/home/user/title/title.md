@@ -12,5 +12,5 @@
 
 
 
-### Welcome to ED-Linux 1.0 LTS
+### Welcome to Raj-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
