@@ -668,9 +668,9 @@ export default function ScreenTextEngine(
         `Error for image at: '${url}'. Image must have aspect ratio like this: '/path/to/image?aspect=1.5'`
       );
     const widthParam = parseFloat(params.get("width") ?? "");
-    const width = (Number.isNaN(widthParam) ? 1 : widthParam)
-    
-    const height = width / aspectRatio;    
+    const width = Number.isNaN(widthParam) ? 1 : widthParam;
+
+    const height = width / aspectRatio;
 
     const imageFrame = new THREE.Mesh(
       new THREE.PlaneBufferGeometry(width, height, 1, 1),

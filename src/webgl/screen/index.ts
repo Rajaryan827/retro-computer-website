@@ -17,10 +17,7 @@ export default function Screen(
   );
   backGround.position.set(0.5, -0.5, -0.01);
 
-  const screenTextEngine = ScreenTextEngine(
-    assists,
-    sceneRTT,
-  );
+  const screenTextEngine = ScreenTextEngine(assists, sceneRTT);
 
   const screenRenderEngine = ScreenRenderEngine(assists, renderer, sceneRTT);
 

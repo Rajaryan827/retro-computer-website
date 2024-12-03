@@ -2,7 +2,7 @@
 
 ## Hi there,
 
-# I'm Raj Aryan
+# _I'm Ed H_
 
 ## • Tech Ethusiast
 
