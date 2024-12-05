@@ -347,3 +347,9 @@ a:active {
   color: #f6d4b1;
   border: #f6d4b1 solid 1px;
 }
+#aboutMe, #projects, #contact{
+     
+    font-size: 2em;
+   
+}
+
